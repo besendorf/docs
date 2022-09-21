@@ -14,7 +14,7 @@
         the environment.
    2. Activate with `source ./bin/activate`
 3. Install with `pip install --upgrade maubot`
-4. Copy `maubot/example-config.yaml` to `config.yaml` and update to your liking.
+4. Copy `example-config.yaml` to `config.yaml` and update to your liking.
 5. Create the log directory and all directories used in `plugin_directories`
    (usually `mkdir plugins trash logs`).
 6. Start with `python3 -m maubot`.
